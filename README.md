@@ -4,7 +4,7 @@ A Collection of BioArt (or BioArt-related) Dissertations
 
 
 ### Keywords
-`BioArt`, `BioDesign`, `Art & Biology`, `Art & Science`, (any more suggestions?)
+`BioArt`, `BioDesign`, `Art & Biology`, `Art & Science`, `...`
 
 ### How to contribute and add/change dissertations:
  - Create a Pull request _(preferred)_
