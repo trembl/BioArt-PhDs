@@ -8,7 +8,7 @@ BioArt, BioDesign, Art & Biology, Art & Science
 
 ### How to contribute and add/change dissertations:
  - Create a Pull request (_preferred_)
- - Submit an Issue 
+ - Submit an [Issue](https://github.com/trembl/BioArt-PhDs/issues) 
  - Message me on [Twitter](https://twitter.com/trembl), on [Facebook](https://www.facebook.com/trembl), or send me an Email
 
 ### About the Format / BibJSON
