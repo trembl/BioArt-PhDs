@@ -1,9 +1,10 @@
-# BioArt-PhDs
-Collection of BioArt (or BioArt-related) Dissertations
+# The Landscape of BioArt PhDs
+A Collection of BioArt (or BioArt-related) Dissertations
+
+
 
 ### Keywords
 BioArt, BioDesign, Art & Biology, Art & Science
-
 
 ### How to contribute and add/change dissertations:
  - Create a Pull request (_preferred_)
@@ -11,8 +12,13 @@ BioArt, BioDesign, Art & Biology, Art & Science
  - Message me on Twitter [@trembl](https://twitter.com/trembl) or on Facebook [@trembl](https://www.facebook.com/trembl) with details
 
 ### About the Format / BibJSON
-[BibJSON](http://okfnlabs.org/bibjson/) is a 'convention for representing bibliographic metadata in JSON'. I also want to track dissertations which are in progress.
+[BibJSON](http://okfnlabs.org/bibjson/) is a 'convention for representing bibliographic metadata in JSON'. 
 
 ### Additional BibJSON Fields
 
-- "status": "in progress" | "completed"
+Some additonal fields are used to to track dissertations progress, committee member, exact wording of degree, etc.
+
+- "status": "in progress" | "completed" (default: _"completed"_)
+- "language": "en" (default: _"en"_)
+- "committee": ["Advisor 1", "Advisor 2"] (default: _[]_)
+- "degree": "PhD in Design and Computation" (default: _PhD_)
