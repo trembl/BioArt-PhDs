@@ -9,7 +9,7 @@ BioArt, BioDesign, Art & Biology, Art & Science
 ### How to contribute and add/change dissertations:
  - Create a Pull request (_preferred_)
  - Submit an Issue 
- - Message me on Twitter [@trembl](https://twitter.com/trembl) or on Facebook [@trembl](https://www.facebook.com/trembl) with details
+ - Message me on [Twitter](https://twitter.com/trembl), on [Facebook](https://www.facebook.com/trembl), or send me an Email
 
 ### About the Format / BibJSON
 [BibJSON](http://okfnlabs.org/bibjson/) is a 'convention for representing bibliographic metadata in JSON'. 
