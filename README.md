@@ -12,9 +12,9 @@ BioArt, BioDesign, Art & Biology, Art & Science
  - Message me on [Twitter](https://twitter.com/trembl), on [Facebook](https://www.facebook.com/trembl), or send me an Email
 
 ### About the Format / BibJSON
-[BibJSON](http://okfnlabs.org/bibjson/) is a 'convention for representing bibliographic metadata in JSON'. 
+[BibJSON](http://okfnlabs.org/bibjson/) is a _convention for representing bibliographic metadata in JSON_. 
 
-### Additional BibJSON Fields
+### Additional Fields
 
 Some additonal fields are used to to track dissertations progress, committee member, exact wording of degree, start datae, etc.
 
