@@ -10,6 +10,7 @@ A Collection of BioArt (or BioArt-related) Dissertations
  - Create a Pull request _(preferred)_
  - Submit an [Issue](https://github.com/trembl/BioArt-PhDs/issues) 
  - Message me on [Twitter](https://twitter.com/trembl), on [Facebook](https://www.facebook.com/trembl), or send me an Email
+ - Use the [Google Form](https://docs.google.com/forms/d/10-NqA-fVzVyYT8-MFEVl6jeIEL8i5u2S3sjQ3FOOPsc)
 
 ### About the Format / BibJSON
 [BibJSON](http://okfnlabs.org/bibjson/) is a _convention for representing bibliographic metadata in JSON_. 
