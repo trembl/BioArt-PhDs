@@ -1,0 +1,23 @@
+{
+  "title": "The Living Commons",
+  "subtitle": "A Spatial Theory for Biological Design",
+  "author":[
+    {
+      "name": "Orkan Telhan",
+      "firstname": "Orkan",
+      "lastname": "Telhan"
+    }
+  ],
+  "type": "phdthesis",
+  "degree": "PhD in Design and Computation",
+  "school": "Massachusetts Institute of Technology",
+  "department": "Department of Architecture",
+  "advisor": "George Stiny",
+  "committee": ["George Stiny", "Terry W. Knight", "Mark Goulain"],
+  "year": "2013",
+  "publisher": "Massachusetts Institute of Technology",
+  "abstract": "Biological design is as ancient as human civilization. For thousands of years, living systems and natural processes have been manipulated by humans and their biological outcomes have been customized for different purposes. While the idea of biological design has always been prevalent throughout history, especially with the discovery of DNA, the ability to manipulate the form, function, and behavior of the living has significantly advanced. Today synthetic biology is pushing the frontiers of biological design even further. Now, living things can be completely abstracted from their original biological contexts, assembled like molecular constructs, and engineered like circuits or programmed like computational hardware. biological designers compose biological form and function by running modeling and simulation software; order standardized biological parts from online libraries and databases; utilize fabrication companies to synthesize gene products to prototype their designs; and build complex artifacts, applications and services that meet human wants, needs, fears, and desires on a daily basis. In this dissertation, I examine different practices of biological design in life sciences and engineering based on different theoretical models. I trace the history of information-based, relational, synthesis-oriented methods and present a new design framework that offers a spatial and a context-driven approach to the design of living matter. Being rooted in a different interpretation of space and spatiality in design, the framework approaches biological design systematically, at three stages: 1) the design of the basic units of the living (Units), 2) how different units are arranged and composed for different functionalities and behavior (Logic), and 3) the design of the biological contexts where biological artifacts live and perform their objectives (Context). This new framework intends to bring together a multitude of approaches from different design fields such as engineering, architecture and product Design that have their unique histories with living matter. The goal here is to demonstrate the ways different design paradigms can potentially shape our relationship with biological design in new ways; altering the design process, the objectives, the outcomes, and the social, cultural, and ethical perception of synthetic living.",
+  "language": "en",
+  "link": [{"url":"https://dspace.mit.edu/handle/1721.1/84365"}, {"url":"http://www.orkantelhan.com/the-living-commons/"}],
+  "identifier": [{"type":"uri","id":"http://hdl.handle.net/1721.1/84365"}]
+}
