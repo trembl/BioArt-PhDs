@@ -7,7 +7,7 @@ A Collection of BioArt (or BioArt-related) Dissertations
 `BioArt`, `BioDesign`, `Art & Biology`, `Art & Science`, (any more suggestions?)
 
 ### How to contribute and add/change dissertations:
- - Create a Pull request _preferred_
+ - Create a Pull request _(preferred)_
  - Submit an [Issue](https://github.com/trembl/BioArt-PhDs/issues) 
  - Message me on [Twitter](https://twitter.com/trembl), on [Facebook](https://www.facebook.com/trembl), or send me an Email
 
