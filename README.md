@@ -18,8 +18,8 @@ BioArt, BioDesign, Art & Biology, Art & Science
 
 Some additonal fields are used to to track dissertations progress, committee member, exact wording of degree, etc.
 
-- "status": "in progress" | "completed" (default: _"completed"_)
-- "language": "en" (default: _"en"_)
-- "committee": ["Advisor 1", "Advisor 2"] (default: _[]_)
-- "degree": "PhD in Design and Computation" (default: _PhD_)
-- `"startyear": "2008"` (default: _""_) ` `
+- `"status": "in progress" | "completed"` default: _"completed"_
+- `"language": "en"` default: _"en"_
+- `"committee": ["Advisor 1", "Advisor 2"]` default: _[]_
+- `"degree": "PhD in Design and Computation"` default: _PhD_
+- `"startyear": "2008"` default: _""_ ` `
