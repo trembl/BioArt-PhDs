@@ -22,3 +22,4 @@ Some additonal fields are used to to track dissertations progress, committee mem
 - "language": "en" (default: _"en"_)
 - "committee": ["Advisor 1", "Advisor 2"] (default: _[]_)
 - "degree": "PhD in Design and Computation" (default: _PhD_)
+- `"startyear": "2008"` (default: _""_) ` `
