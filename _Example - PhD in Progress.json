@@ -1,20 +1,20 @@
 {
-  "title": "The Living Commons",
-  "subtitle": "A Spatial Theory for Biological Design",
+  "title": "Thesis Titles",
+  "subtitle": "Thesis Subtitle, if there is one",
   "author":[
     {
-      "name": "Orkan Telhan",
-      "firstname": "Orkan",
-      "lastname": "Telhan"
+      "name": "First Last",
+      "firstname": "First",
+      "lastname": "Last"
     }
   ],
   "type": "phdthesis",
   "status": "in progress"
-  "degree": "PhD in Design and Computation",
-  "school": "Massachusetts Institute of Technology",
-  "department": "Department of Architecture",
-  "advisor": "George Stiny",
-  "year": "2008",
+  "degree": "PhD in BioArt",
+  "school": "School Name",
+  "department": "Department of Art",
+  "advisor": "Full Name",
+  "year": "2000",
   "language": "en",
-  "link": [{"url":"https://dspace.mit.edu/handle/1721.1/84365"}],
+  "link": [{"url":"url to thesis or related"}],
 }
